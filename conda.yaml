@@ -1,6 +1,6 @@
 name: tutorial
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - cloudpickle=0.6.1
   - python=3.6
